@@ -1,0 +1,11 @@
+Asset_ID,avg_inventory,avg_demand_forecast,inventory_vs_demand_gap
+Truck_9,285.0,212.3,72.7
+Truck_3,280.7,204.0,76.7
+Truck_4,292.2,207.5,84.7
+Truck_7,290.2,201.8,88.4
+Truck_1,289.8,194.1,95.7
+Truck_2,294.4,196.5,97.9
+Truck_5,309.3,200.2,109.1
+Truck_6,297.3,184.5,112.8
+Truck_10,313.1,194.1,119.0
+Truck_8,322.9,198.6,124.3

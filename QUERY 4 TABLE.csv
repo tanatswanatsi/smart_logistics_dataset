@@ -1,0 +1,4 @@
+Traffic_Status,total,delayed_count,delay_rate_percentage,avg_waiting_time
+Heavy,327,327,100.00,34.3
+Detour,345,124,35.94,35.3
+Clear,328,115,35.06,35.5
